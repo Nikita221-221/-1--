@@ -1,0 +1,4 @@
+﻿  DocumentationForFunctions.cpp
+C:\Users\medilend\source\repos\KeyAfterMinute\DocumentationForFunctions\DocumentationForFunctions.cpp(48,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  DocumentationForFunctions.vcxproj -> C:\Users\medilend\source\repos\KeyAfterMinute\x64\Debug\DocumentationForFunctions.exe
+x64\Debug\DocumentationForFunctions.xdc : warning XDC0006: file(s) not found
